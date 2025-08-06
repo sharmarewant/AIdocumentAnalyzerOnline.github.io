@@ -1,0 +1,30 @@
+.history-item-details {
+  flex-grow: 1;
+  margin: 0 1rem;
+}
+
+.history-item-name {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.history-item-date {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.delete-history-btn {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 50%;
+  transition: all 0.2s ease-in-out;
+}
+
+.delete-history-btn:hover {
+  color: var(--accent-color-danger);
+  background-color: rgba(255, 82, 82, 0.1);
+} 
