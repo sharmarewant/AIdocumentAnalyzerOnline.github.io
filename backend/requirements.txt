@@ -1,0 +1,12 @@
+requests
+pdfplumber
+docx
+pillow
+pytesseract
+dotenv
+docx2pdf
+fastapi
+python-multipart
+uvicorn
+starlette
+pydantic
