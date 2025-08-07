@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AIdocumentAnalyzerOnline.github.io/static/css/main.a9722017.css",
+    "main.js": "/AIdocumentAnalyzerOnline.github.io/static/js/main.4ea09336.js",
+    "index.html": "/AIdocumentAnalyzerOnline.github.io/index.html",
+    "main.a9722017.css.map": "/AIdocumentAnalyzerOnline.github.io/static/css/main.a9722017.css.map",
+    "main.4ea09336.js.map": "/AIdocumentAnalyzerOnline.github.io/static/js/main.4ea09336.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9722017.css",
+    "static/js/main.4ea09336.js"
+  ]
+}
